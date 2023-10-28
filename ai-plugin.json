@@ -1,0 +1,20 @@
+{
+ "schema_version": "v1",
+ "name_for_human": "Desarrollo Plant Based",
+ "name_for_model": "DesarrolloPB",
+ "description_for_human": "El pluguin ayuda a generar formulaciones de productos plant based en función de publoicaciones.",
+ "description_for_model": "Pluguin que a partir de publicaciones científicas e información adicionale de ChatGPT ayuda a generar formulaciones.",
+ "auth": {
+   "type": "none"
+ },
+ "api": {
+   "type": "openapi",
+   "url": "URL de tu especificación OpenAPI"
+ },
+ "logo_url": "URL de tu logo",
+ "contact_email": "tuemail@ejemplo.com",
+ "legal_info_url": "URL de información legal o términos de uso"
+}
+
+
+
